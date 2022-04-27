@@ -8,4 +8,5 @@ WHU-CD: https://study.rsgis.whu.edu.cn/pages/download/
 Two datasets are transferred into the BICD task.  
 Link：https://pan.baidu.com/s/1qbvv51q1PDIlQOb_z4LZcg  
 Passwork：bicd  
-### The transferred method
+### The transferred method and the flowchar of BICD
+![image] (https://github.com/yjbing/BuildingInstanceChangeDetection/blob/main/images/Flowchart%20of%20the%20BICD.png)
