@@ -11,4 +11,4 @@ Passwork：bicd
 ### The transferred method and the flowchar of BICD
 ![image](https://github.com/yjbing/BuildingInstanceChangeDetection/blob/main/images/Flowchart%20of%20the%20BICD.png)
 ### The schematic of copy-pasting data augmentation  
-![image](
+![image](https://github.com/yjbing/BuildingInstanceChangeDetection/blob/main/images/The%20schematic%20of%20copy-pasting%20data%20augmentation.png)
