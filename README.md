@@ -9,6 +9,6 @@ Two datasets are transferred into the BICD task.
 Link：https://pan.baidu.com/s/1qbvv51q1PDIlQOb_z4LZcg  
 Passwork：bicd  
 ### The transferred method and the flowchar of BICD
-![image](https://github.com/yjbing/BuildingInstanceChangeDetection/blob/main/images/Flowchart%20of%20the%20BICD.png)
+![image](https://github.com/yjbing/BuildingInstanceChangeDetection/blob/main/images/Flowchart%20of%20the%20BICD.png)  
 ### The schematic of copy-pasting data augmentation  
-![image](https://github.com/yjbing/BuildingInstanceChangeDetection/blob/main/images/The%20schematic%20of%20copy-pasting%20data%20augmentation.png)
+![image](https://github.com/yjbing/BuildingInstanceChangeDetection/blob/main/images/The%20schematic%20of%20copy-pasting%20data%20augmentation.png)  
