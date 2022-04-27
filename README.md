@@ -4,8 +4,8 @@
 Download the building change detection dataset.  
 LEVIR-CD: https://justchenhao.github.io/LEVIR/   
 WHU-CD: https://study.rsgis.whu.edu.cn/pages/download/
-## BICD Datasets
-Two datasets are transferred into the BICD task.  
+## BICD Datasets  
+Two datasets are transferred into the BICD task. The binary label images are convert into JSON format files of the COCO dataset.  
 Link：https://pan.baidu.com/s/1qbvv51q1PDIlQOb_z4LZcg  
 Passwork：bicd  
 ### The transferred method and the flowchar of BICD
